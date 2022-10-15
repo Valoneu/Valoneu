@@ -1,6 +1,6 @@
 Hi, Im Valoneu
 Im trying to create mods here for dyson sphere program and maybe some other games in the future
-https://valoneu.github.io/index.html
+https://valoneu.github.io/
 
 <details>
   <summary>Github Stats</summary>
